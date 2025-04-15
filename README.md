@@ -40,7 +40,12 @@ A simple **C# Windows Forms Application** that simulates a basic banking system.
 
 ## 🧑‍💻 Author
 
-- Your Name  
+- Hassan Ezat
+- Afrim ashraf
+- Hassan saber
+- mohamed Amr
+- mahmoud oraby
+- mostafa hany
 - [Your GitHub Profile](https://github.com/Hassan-Ezat)
 
 ---
